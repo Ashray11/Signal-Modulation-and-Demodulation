@@ -1,3 +1,5 @@
+%Ashray Kothari
+%201901457
 clc; clear all;
 % Plot of Msg Signal
 fs = 3000;
